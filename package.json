@@ -1,0 +1,24 @@
+{
+  "name": "wonnie-store",
+  "version": "1.0.0",
+  "description": "Get start with a lightweight way of, redux-like, handling data.",
+  "main": "createStore.js",
+  "keywords": [
+    "data",
+    "state management",
+    "redux-like"
+  ],
+  "author": {
+    "name": "Sangwon Lee",
+    "email": "junothyme@gmail.com"
+  },
+  "engines": {
+    "node": ">= 12.16.1"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ]
+}
